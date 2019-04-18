@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_goto(standartMenu);
+position_destroy(other.x, other.y);
+health_regen -= 0.1;
