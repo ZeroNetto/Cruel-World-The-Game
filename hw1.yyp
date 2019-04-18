@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "66251d5a-9716-4311-909f-5e1b76130ea0",
+            "Value": {
+                "id": "f8074b18-8d67-4f6c-aa75-e6cb84056440",
+                "resourcePath": "sprites\\sLvlBG\\sLvlBG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "751701fe-9c38-447b-89e5-438fe6096b21",
             "Value": {
                 "id": "80dd384e-372b-452b-9b68-6a992c1647e5",
@@ -252,6 +260,14 @@
                 "id": "891346e6-ff7c-4c08-baff-414e2efba2e8",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "8431a019-c88e-4a5b-a37c-d224824950e1",
+            "Value": {
+                "id": "fb95db0a-53ce-45a9-9801-ff97882ac31b",
+                "resourcePath": "tilesets\\tbg\\tbg.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
