@@ -2,7 +2,7 @@
     "id": "fe592796-6712-45f8-9db2-ad3e5085db49",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite8",
+    "name": "sHelthRegenCut",
     "For3D": false,
     "HTile": false,
     "VTile": false,
