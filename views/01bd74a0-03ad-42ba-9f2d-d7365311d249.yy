@@ -6,7 +6,9 @@
     "children": [
         "0aa54aed-1861-478d-82dd-8f84d27e262e",
         "30f11a42-81c9-4703-8cdb-048a2a0df330",
-        "319e978a-fbcc-4cc5-88fd-8393e438da1c"
+        "319e978a-fbcc-4cc5-88fd-8393e438da1c",
+        "461feec0-4574-47c0-a850-88b0a42d8aae",
+        "ea72351b-4211-4819-96df-10c6a4c3a407"
     ],
     "filterType": "GMSprite",
     "folderName": "Menu",

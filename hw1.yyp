@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "461feec0-4574-47c0-a850-88b0a42d8aae",
+            "Value": {
+                "id": "e61e5cc8-71a8-4cf5-bfd0-ec0887792374",
+                "resourcePath": "sprites\\sNewGame\\sNewGame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4fe39512-e1a5-4f92-b6a5-9ff6bc450d26",
             "Value": {
                 "id": "9cf15b7e-4689-4ad7-8940-382eaafdb9be",
@@ -411,6 +419,14 @@
             "Value": {
                 "id": "98bbeda9-c4aa-41f0-a1ad-f92ec056b96c",
                 "resourcePath": "sprites\\sHeal\\sHeal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ea72351b-4211-4819-96df-10c6a4c3a407",
+            "Value": {
+                "id": "cc219f41-a557-4d6d-aa89-f94ec7769f7a",
+                "resourcePath": "sprites\\BG\\BG.yy",
                 "resourceType": "GMSprite"
             }
         },
