@@ -2,7 +2,7 @@
     "id": "06d5ade5-273c-4cd5-a0ed-f26db589c288",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oText",
+    "name": "oHealth",
     "eventList": [
         {
             "id": "5482fb4a-e6c9-4f59-a149-1edb8c80bd4a",
