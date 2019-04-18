@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "7d02bf55-e62a-4b70-a21a-b22eabc85e67",
+            "Value": {
+                "id": "adde100a-0efa-41c3-bd42-6a4b6a907137",
+                "resourcePath": "sprites\\sLvlBG\\sLvlBG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "adb7747d-5913-4d42-8da4-bbb51243fde8",
@@ -468,6 +476,14 @@
                 "id": "8b9ba36a-0848-4267-bb72-6aee69fa87b3",
                 "resourcePath": "objects\\oEnd\\oEnd.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f6ef4ad2-e0f4-4294-b04c-b9d9e97ae2e2",
+            "Value": {
+                "id": "429f50e2-b7b0-46ba-8af0-c8c7ad67c4f3",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
