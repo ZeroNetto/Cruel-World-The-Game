@@ -1,6 +1,6 @@
 
 {
-    "name": "menu",
+    "name": "standartMenu",
     "id": "e12c90f2-cbc9-4303-a660-c5310891e91f",
     "creationCodeFile": "",
     "inheritCode": false,
