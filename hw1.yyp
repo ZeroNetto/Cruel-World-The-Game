@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01022bb7-f323-4d51-9b83-470a216a74ff",
+            "Value": {
+                "id": "42252563-3fa1-4eb5-bf53-5cd641776bb3",
+                "resourcePath": "objects\\oChooser\\oChooser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "01bd74a0-03ad-42ba-9f2d-d7365311d249",
             "Value": {
                 "id": "70ad98b1-7dde-4bfa-96a6-ccf3beed5209",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "227ef432-a0b0-4c72-a986-3c3b9b578f0e",
+            "Value": {
+                "id": "bd20c419-b00e-4946-a4c7-381b07a7fd29",
+                "resourcePath": "objects\\oGreen\\oGreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "24fd783b-1024-4491-be1c-bd85a68fedef",
             "Value": {
                 "id": "b0786388-5011-426d-ba12-51f1ca1f503d",
@@ -99,6 +115,14 @@
             "Value": {
                 "id": "49fbc6aa-6fb7-4340-b9e2-eceb75b747db",
                 "resourcePath": "sprites\\sFinish\\sFinish.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "302173b8-f9b4-492e-8fff-5c31e1fee1bd",
+            "Value": {
+                "id": "f21f150c-dee1-473f-b3a5-41c672492fe6",
+                "resourcePath": "sprites\\sGirl\\sGirl.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -116,6 +140,14 @@
                 "id": "e94d1c0f-d34c-4c91-ba64-682d5771ffe0",
                 "resourcePath": "sprites\\sRestart\\sRestart.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "331d7624-149e-4a80-abb6-fd787b9381cb",
+            "Value": {
+                "id": "6b8316c9-0d1b-4c3d-92d0-7e42e75b50b1",
+                "resourcePath": "objects\\oGirl\\oGirl.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -171,6 +203,14 @@
             "Value": {
                 "id": "e61e5cc8-71a8-4cf5-bfd0-ec0887792374",
                 "resourcePath": "sprites\\sNewGame\\sNewGame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4d05e0d5-69c5-42d8-a87d-a31ccadd7f58",
+            "Value": {
+                "id": "4facd128-ab5c-483d-8bd9-7eccab94255c",
+                "resourcePath": "sprites\\sPlayer4\\sPlayer4.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -239,6 +279,14 @@
             }
         },
         {
+            "Key": "7c69f91e-928c-4792-bc68-f407a288d458",
+            "Value": {
+                "id": "f194ac8c-1eff-4d93-9f60-f5a9cc9c3a9c",
+                "resourcePath": "objects\\oNewGame\\oNewGame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "adb7747d-5913-4d42-8da4-bbb51243fde8",
@@ -279,11 +327,43 @@
             }
         },
         {
+            "Key": "86a5608d-2d19-4027-b181-a2ac3cf8d5c5",
+            "Value": {
+                "id": "92d0a3c3-56f6-4429-bec5-50fedbdf0203",
+                "resourcePath": "objects\\oRed\\oRed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "90c3190f-8e4b-457a-9c72-325771d10194",
+            "Value": {
+                "id": "507de2d0-d358-482d-9482-838921d666d3",
+                "resourcePath": "rooms\\Customize\\Customize.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "39e7c2e4-d415-49d8-90c2-df45b6c4be8b",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "9823051a-818c-4324-96da-4b2574380ee2",
+            "Value": {
+                "id": "26a9910e-1e51-4f29-b2be-1c0cc69ea1ee",
+                "resourcePath": "sprites\\sPlayer3\\sPlayer3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a0b04afa-05d7-432d-9ab3-09e035266ec2",
+            "Value": {
+                "id": "09450107-006d-4b9e-8d71-ebd278383dfe",
+                "resourcePath": "sprites\\sBoy\\sBoy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -391,6 +471,14 @@
             }
         },
         {
+            "Key": "cba22113-c021-4dd1-b312-4701eae66d8a",
+            "Value": {
+                "id": "70331019-5f17-443f-8a3a-ba9837954e01",
+                "resourcePath": "rooms\\MainMenu\\MainMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "c21e34b6-0709-4f6a-8ec2-5b9ff28743b9",
@@ -412,6 +500,14 @@
                 "id": "d3b29f5f-e3b5-467b-885e-e37cb04a5084",
                 "resourcePath": "objects\\oWall\\oWall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d802c744-1aec-4488-a216-dc8c70ba42ce",
+            "Value": {
+                "id": "74e5e3f1-5cc0-42f6-8c58-103e215d3116",
+                "resourcePath": "sprites\\sPlayer2\\sPlayer2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -492,6 +588,14 @@
                 "id": "6de56b12-dda8-4a58-9a3e-e064aa8db619",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fb70ce27-ef33-4b69-8942-a2e4f6c0b3b9",
+            "Value": {
+                "id": "60887947-b866-4a1b-84db-8182084942d4",
+                "resourcePath": "objects\\oBoy\\oBoy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
