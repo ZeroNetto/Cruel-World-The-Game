@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0546fb5c-6fe3-4a2a-bb12-8bdfcd16c339",
+            "Value": {
+                "id": "abcb5d21-352e-45c7-ab29-c5901d29c7c2",
+                "resourcePath": "sounds\\healthSound\\healthSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "06d5ade5-273c-4cd5-a0ed-f26db589c288",
             "Value": {
                 "id": "8e471828-e8ca-4111-a3b1-ed23d1adeec1",
@@ -367,6 +375,14 @@
             }
         },
         {
+            "Key": "8d4eedac-6b3c-46c8-91c2-8b8203237deb",
+            "Value": {
+                "id": "668f2c7d-62bf-4c20-af11-4a0bca29e229",
+                "resourcePath": "sounds\\trapSound\\trapSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8ff1b78a-882e-4d6c-a1ad-c9d4365b1845",
             "Value": {
                 "id": "8953f1fb-8a49-40a9-bb00-2be50909edd0",
@@ -471,6 +487,14 @@
             }
         },
         {
+            "Key": "b59c1935-0e70-4cb0-9310-1d634c3e2197",
+            "Value": {
+                "id": "edd72d59-d8e8-4d37-ab0c-92ddb1e72e57",
+                "resourcePath": "objects\\musicObj\\musicObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bf816090-67ce-4729-ab46-d6a216fa552d",
             "Value": {
                 "id": "f4c1305a-6f04-4ac6-969e-fc87cb061008",
@@ -508,6 +532,14 @@
                 "id": "38042909-dd31-4a11-80d8-fa6bbe8d1718",
                 "resourcePath": "views\\c4af6b7f-2b65-48f8-acde-647e56d77888.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c83679f2-6c20-413d-9ca4-8ad46d54eb93",
+            "Value": {
+                "id": "70e97c00-03df-49c4-adad-439283cd1ca2",
+                "resourcePath": "sounds\\GosT\\GosT.yy",
+                "resourceType": "GMSound"
             }
         },
         {
