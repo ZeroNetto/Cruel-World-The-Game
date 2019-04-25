@@ -119,6 +119,22 @@
             }
         },
         {
+            "Key": "2f8673cf-e4a0-4910-9e95-d3edb4e68f58",
+            "Value": {
+                "id": "3a7b12f6-02bf-4cb9-89df-24b0731eb6a9",
+                "resourcePath": "objects\\oAddScore\\oAddScore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "300bc969-af29-4495-b3e6-9c8477e9739d",
+            "Value": {
+                "id": "c6512623-3c3b-4291-9187-c9227c17b7b8",
+                "resourcePath": "objects\\oScore\\oScore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "302173b8-f9b4-492e-8fff-5c31e1fee1bd",
             "Value": {
                 "id": "f21f150c-dee1-473f-b3a5-41c672492fe6",
@@ -319,6 +335,14 @@
             }
         },
         {
+            "Key": "8589e983-7048-4410-82c7-eb74b23f135a",
+            "Value": {
+                "id": "4151017b-7daa-433c-ba1b-6341b949b19c",
+                "resourcePath": "rooms\\scoreboard\\scoreboard.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "86345f6f-13d1-422c-a459-b213c3bc86c9",
             "Value": {
                 "id": "0e490a60-0923-4504-8886-5c06d2aeaf40",
@@ -332,6 +356,22 @@
                 "id": "92d0a3c3-56f6-4429-bec5-50fedbdf0203",
                 "resourcePath": "objects\\oRed\\oRed.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8b980b1c-5659-4f8f-b2bf-b653d5fd9d8e",
+            "Value": {
+                "id": "4a12f395-9af4-4ceb-bb98-736ae25abc1a",
+                "resourcePath": "rooms\\scoreboardSaver\\scoreboardSaver.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8ff1b78a-882e-4d6c-a1ad-c9d4365b1845",
+            "Value": {
+                "id": "8953f1fb-8a49-40a9-bb00-2be50909edd0",
+                "resourcePath": "views\\8ff1b78a-882e-4d6c-a1ad-c9d4365b1845.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -487,6 +527,14 @@
             }
         },
         {
+            "Key": "cf0faf4a-66e8-44c2-ba65-8ef21b46bf11",
+            "Value": {
+                "id": "107ec490-19bd-4148-bb81-eb3118910d2d",
+                "resourcePath": "objects\\oScoreboard\\oScoreboard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cf83c4f7-d40d-4093-adaa-fe1ec8c0d30b",
             "Value": {
                 "id": "06043f99-5aca-4824-9c08-65c71ce2a6f2",
@@ -499,6 +547,14 @@
             "Value": {
                 "id": "d3b29f5f-e3b5-467b-885e-e37cb04a5084",
                 "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d6d17187-485a-4555-b461-f0363c337e88",
+            "Value": {
+                "id": "90b99715-45f8-4cf0-8e66-6b70eae7de78",
+                "resourcePath": "objects\\oUsername\\oUsername.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -540,6 +596,14 @@
                 "id": "98bbeda9-c4aa-41f0-a1ad-f92ec056b96c",
                 "resourcePath": "sprites\\sHeal\\sHeal.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e8ddd73d-8256-4871-96cc-c820e7284f46",
+            "Value": {
+                "id": "f8fdf4d7-373e-4a58-9d07-2340b7b88ce3",
+                "resourcePath": "views\\e8ddd73d-8256-4871-96cc-c820e7284f46.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
