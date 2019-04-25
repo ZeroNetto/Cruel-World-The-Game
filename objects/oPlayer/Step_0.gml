@@ -17,4 +17,5 @@ global.phealth += health_regen;
 
 if (global.phealth >= 100){
 	room_goto(afterStayAliveMenu);
+	instance_destroy(oScore);
 }
