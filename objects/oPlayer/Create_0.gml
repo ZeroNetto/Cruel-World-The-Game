@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-audio_stop_all();
-audio_play_sound(GosT, 100, true);
 
 
 if global.sex == "male" && global.color == "green"
@@ -14,8 +12,10 @@ if global.sex == "female" && global.color == "red"
 {sprite_index = sPlayer4}
 
 phy_fixed_rotation = true;
-pspeed = 12;
+pspeed = 14;
 depth = -10;
-health_regen = 0.3;
-global.phealth = 3;
-global.current_level = room;
+health_regen = 0.07;
+globalvar phealth;
+phealth = 20;
+globalvar current_level;
+current_level = room;

@@ -3,7 +3,7 @@
 audio_play_sound(trapSound, 1000, false);
 
 score += 100;
-global.phealth -= 10;	
-pspeed -= 2;
+phealth -= 17;	
+pspeed -= 3;
 
 instance_destroy(other);

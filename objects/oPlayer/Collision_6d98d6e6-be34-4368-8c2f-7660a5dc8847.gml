@@ -4,5 +4,5 @@ audio_play_sound(healthSound, 1000, false);
 
 score -= 100;
 instance_destroy(other);
-global.phealth += 5;
+phealth += 20;
 pspeed += 2;

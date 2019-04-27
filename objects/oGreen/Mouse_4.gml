@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 global.color = "green";
-room_goto(lvl_1);
+room_goto(tutorial);
