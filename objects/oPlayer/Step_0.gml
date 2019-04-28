@@ -10,18 +10,20 @@ if(keyboard_check_pressed(vk_space) && place_meeting(x, y + 1, oWall))
 if (keyboard_check(vk_right) || keyboard_check(ord("D")))
 {
 	phy_position_x += pspeed;
+	image_speed = 2;
+}
+else
+{	
+	image_speed = 0;
 	if(!place_meeting(x, y + 1, oWall))
 	{
-		image_speed = 0;
-		image_index = 1;
+		image_index = 6;
 	}
 	else
 	{
-		image_speed = 2;
+		image_index = 0;
 	}
 }
-
-
 //phy_position_x += pspeed;
 global.phealth += health_regen;
 
