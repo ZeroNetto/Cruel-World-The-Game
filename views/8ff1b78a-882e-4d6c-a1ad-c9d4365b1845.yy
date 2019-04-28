@@ -8,7 +8,8 @@
         "fe592796-6712-45f8-9db2-ad3e5085db49",
         "e71e9f2e-5cfc-4725-8c41-0e8691bbbcb9",
         "b439db21-8746-4c73-bcc4-3b34987d3fbf",
-        "ac565ce6-a2ef-479f-afd5-c4490e82b383"
+        "ac565ce6-a2ef-479f-afd5-c4490e82b383",
+        "00063a25-ed34-4a03-8e0d-766dfb51ca00"
     ],
     "filterType": "GMSprite",
     "folderName": "gameObjects",

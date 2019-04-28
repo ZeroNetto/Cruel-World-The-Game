@@ -7,3 +7,4 @@ phealth -= 17;
 pspeed -= 3;
 
 instance_destroy(other);
+instance_create_depth(x, y, 0, oBlood);

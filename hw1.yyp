@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00063a25-ed34-4a03-8e0d-766dfb51ca00",
+            "Value": {
+                "id": "d988885c-331c-48e9-a8d6-ca91e680402e",
+                "resourcePath": "sprites\\sBlood\\sBlood.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "01022bb7-f323-4d51-9b83-470a216a74ff",
             "Value": {
                 "id": "42252563-3fa1-4eb5-bf53-5cd641776bb3",
@@ -276,6 +284,14 @@
                 "id": "9cf15b7e-4689-4ad7-8940-382eaafdb9be",
                 "resourcePath": "views\\4fe39512-e1a5-4f92-b6a5-9ff6bc450d26.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "54c33539-6717-4131-86da-a55cb0402993",
+            "Value": {
+                "id": "20c09aca-426f-4710-b002-b4fe050a389e",
+                "resourcePath": "objects\\oBlood\\oBlood.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -527,6 +543,14 @@
             }
         },
         {
+            "Key": "a9d93b35-0680-4a87-9fb7-ad9d11558550",
+            "Value": {
+                "id": "9fdaf61a-231e-4fb6-a2c7-9164a57150ac",
+                "resourcePath": "sounds\\trapSound\\trapSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ac565ce6-a2ef-479f-afd5-c4490e82b383",
             "Value": {
                 "id": "d956db7a-05db-4478-bd37-ca53425736d0",
@@ -620,6 +644,14 @@
                 "id": "5a99886c-d5cf-4b6b-9454-41c045bbc211",
                 "resourcePath": "rooms\\tutorial\\tutorial.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c528da71-08ab-41a3-bf2b-c6877a7326ba",
+            "Value": {
+                "id": "7c528d3c-74a2-4348-8ca8-03a76cec9b70",
+                "resourcePath": "sounds\\healthSound\\healthSound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
